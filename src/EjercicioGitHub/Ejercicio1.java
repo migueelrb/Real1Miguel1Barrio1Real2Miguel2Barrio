@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Ejercicio1 {
 	
+	// Cambio del alumno 1 (Miguel Real Barrio)
 	 //Cambio del alumno 2 (Miguel2 Real2Barrio2) 	
 	// Constantes
 	private static final int EDAD_MAXIMA = 100;
