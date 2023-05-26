@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Ejercicio1 {
 	
-	// Linea editado por el usuario 1 y el usuario 2
+	// Linea editado por el usuario 2
 	// Cambio del alumno 1 (Miguel Real Barrio)
 	 //Cambio del alumno 2 (Miguel2 Real2Barrio2) 	
 	// Constantes
